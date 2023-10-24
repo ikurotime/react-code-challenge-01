@@ -1,8 +1,19 @@
-# React + Vite
+# TECHNICAL INTERVEW - REACT JUNIOR ⚛️🧑‍💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Somos unos fanáticos de los gatos y queremos enseñarle al resto lo bonitos que son.
+Vamos a crear una página donde podamos recopilar los datos de nuestros gatos favoritos.
+En nuestra página podremos además consultar información de datos curiosos sobre gatos
 
-Currently, two official plugins are available:
+Demuestra tus habilidades con React y haz una página con la información de estas APIs:
+https://cataas.com/
+https://catfact.ninja/fact
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Puedes consultar información, asi como la documentación en cualquier momento
+El resultado tiene que mostrar la imagen del gato a la izquierda y el texto a la derecha
+centrado verticalmente
+
+## REQUISITOS 📝
+
+- Realizar llamada a la API y sacar la información en un componente (10 gatos) []
+- Darle nombre a los gatos y mostrarlo junto a su foto []
+- Mostrar datos curiosos de los gatos []
