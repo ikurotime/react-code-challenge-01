@@ -1,4 +1,4 @@
-# TECHNICAL INTERVEW - REACT JUNIOR ⚛️🧑‍💻
+# TECHNICAL INTERVIEW - REACT JUNIOR ⚛️🧑‍💻
 
 Somos unos fanáticos de los gatos y queremos enseñarle al resto lo bonitos que son.
 Vamos a crear una página donde podamos recopilar los datos de nuestros gatos favoritos.
