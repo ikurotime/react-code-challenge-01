@@ -17,3 +17,5 @@ centrado verticalmente
 - Realizar llamada a la API y sacar la información en un componente (10 gatos) []
 - Darle nombre a los gatos y mostrarlo junto a su foto []
 - Mostrar datos curiosos de los gatos []
+  # BONUS
+- Añadir fuente personalizada al proyecto
